@@ -24571,17 +24571,17 @@
 	  render: function render() {
 	    return React.createElement(
 	      "div",
-	      { className: "col-lg-4" },
-	      React.createElement("img", { className: "img-circle", src: "data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==", alt: "Generic placeholder image", width: "140", height: "140" }),
+	      { className: "col-lg-8" },
+	      React.createElement("img", { className: "img-circle", src: "http://static.tumblr.com/1f715a304ae6c5f77d4eb64ec2ff0721/neua2wl/Sxonxp05n/tumblr_static_a9zowqcbtz404wwg84w8gwcw0.gif", alt: "Generic placeholder image", width: "140", height: "140" }),
 	      React.createElement(
 	        "h2",
 	        null,
-	        "Петрунин В. П."
+	        "Dr. Hannibal Lecter"
 	      ),
 	      React.createElement(
 	        "p",
 	        null,
-	        "Россия, г. Москва; 15.04.1981 "
+	        "U.S., baltimore; 15.04.1966 "
 	      )
 	    );
 	  }
